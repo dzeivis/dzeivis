@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [OneX Project](https://onex.lt)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deividaspapuska/](https://www.linkedin.com/in/deividaspapuska/)
+- 👨‍💻 Linkedin [https://www.linkedin.com/in/deividaspapuska/](https://www.linkedin.com/in/deividaspapuska/)
 
 - 📫 How to reach me **deividaspapuska@gmail.com**
 
